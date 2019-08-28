@@ -18,9 +18,11 @@ Links for your reference: [Markdown](https://www.markdownguide.org/basic-syntax/
 The best resources, which I prefer for Web-development are:
 1. [Full stack Web-developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 2. The one which is already mentioned in the module itself. Click [here](https://github.com/kamranahmedse/developer-roadmap)
+3. 
 ## Contributors:
 I'm Prasanna Kumar, came all the way from [Vizag](https://en.wikipedia.org/wiki/Visakhapatnam) - The City of Destiny, located in India. Currently pursuing masters in Applied Computer Science from NWMSU.
 
 I have an experience of 3.5 years in [Wipro Technologies](https://en.wikipedia.org/wiki/Wipro) as Project Engineer, where I had worked on Unix Shell Scripting and a bit on Python.
 
-I would like to post my favorite picture, which is with my pet dog, named as Lany.
+I would like to post one of my picture, but not favorite, which was captured when I'm on my way to [Lonavala](https://en.wikipedia.org/wiki/Lonavla)(Pune, India)
+![me](ghost.jpg)
