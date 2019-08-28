@@ -1,0 +1,11 @@
+I am Prasannakumar, a new member of Fall,2019 batch for pursuing Masters in Applied Computer Science.
+
+I am from Visakhapatnam, India and had completed my Bachelor's degree in Computer science in the year 2015. I'm having an experience of 3.5 years in Wipro Technologies(Hyderabad) as a Project Engineer,  where I used to work on Unix Shell Scripting as Developer
+(developing shell scripts and get it deployed on servers for the automation of daily tasks) and Python on a basic level. My hobbies are listening music and editing pictures.
+
+Areas of interest:
+AI
+User Interface
+Database management
+
+And I hope, I could see myself as a Best Programmer.
