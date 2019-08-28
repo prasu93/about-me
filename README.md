@@ -1,15 +1,17 @@
 # About-me
 You can find my **Repository links** below:
-- [Source Repository link](https://github.com/prasu93/about-me)
-- [Hosted Page link]()
+- [Source Repository link](https://github.com/prasu93/Snapseed)
+- [Hosted Page link](https://prasu93.github.io/Snapseed/)
 ## About this Repo:
 This repo is made majorly for two things
 1. To know about [me](https://github.com/prasu93/)
 2. To provide best resources or materials and efficient tutorials to the people, who are planning to make their way to the **Web-Development**
 ## Tools Recommended:
-The preferred languages you can use for publishing a repo with Github pages are Javascript, Python and so many. Few people also use the below languages, which are familiar for their simplicity in syntax
+The preferred languages you can use for publishing a repo with Github pages, which are familiar for their simplicity in syntax
 - Markdown Language
 - Hyper Text Markup Language, popularly known as HTML
+
+People use Javascript and other languages for performing some additional action items or applying few constraints for the web pages.
 
 Links for your reference: [Markdown](https://www.markdownguide.org/basic-syntax/) and [HTML](https://www.w3schools.com/html/)
 
