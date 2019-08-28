@@ -18,7 +18,8 @@ Links for your reference: [Markdown](https://www.markdownguide.org/basic-syntax/
 The best resources, which I prefer for Web-development are:
 1. [Full stack Web-developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 2. The one which is already mentioned in the module itself. Click [here](https://github.com/kamranahmedse/developer-roadmap)
-3. 
+3. [Video Tutorial for Web-development](https://www.youtube.com/watch?v=3JluqTojuME)
+4. [How to make a simple Github page](https://www.youtube.com/watch?v=BA_c3bGQXlQ)
 ## Contributors:
 I'm Prasanna Kumar, came all the way from [Vizag](https://en.wikipedia.org/wiki/Visakhapatnam) - The City of Destiny, located in India. Currently pursuing masters in Applied Computer Science from NWMSU.
 
