@@ -1,4 +1,4 @@
-# About-me!
+# About-me
 You can find my **Repository links** below:
 - [Source Repository link](https://github.com/prasu93/about-me)
 - [Hosted Page link](https://prasu93.github.io/about-me/)
