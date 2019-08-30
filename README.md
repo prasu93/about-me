@@ -1,7 +1,7 @@
 # About-me
 You can find my **Repository links** below:
-- [Source Repository link](https://github.com/prasu93/Snapseed)
-- [Hosted Page link](https://prasu93.github.io/Snapseed/)
+- [Source Repository link](https://github.com/prasu93/about-me)
+- [Hosted Page link](https://prasu93.github.io/about-me/)
 ## About this Repo:
 This repo is made majorly for two things
 1. To know about [me](https://github.com/prasu93/)
@@ -11,7 +11,7 @@ The preferred languages that you can use for developing github pages are:
 - Markdown Language
 - Hyper Text Markup Language, popularly known as HTML
 
-People use Javascript and other languages for performing some additional action items or applying few constraints for the web pages.
+People use Javascript, Ruby and other languages for performing some additional action items or applying few constraints for the web pages.
 
 Links for your reference: [Markdown](https://www.markdownguide.org/basic-syntax/) and [HTML](https://www.w3schools.com/html/)
 
