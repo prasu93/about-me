@@ -1,0 +1,104 @@
+#myid {
+color: black;
+}
+h1,h2,h3,h4 {
+  color: white;
+}
+#image {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+p,td {
+  color: white;
+}
+
+nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	margin-top: 0px;
+}	
+nav li {
+  display: inline;
+  padding-right: 50px;
+}
+nav a {
+	text-decoration: none;
+	font-family: Verdana, serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: normal;
+	letter-spacing: normal;
+	line-height: 1.3em;
+	color: #596365;
+}
+nav a:hover {
+	text-decoration: none;
+	font-family: Cambria, serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: normal;
+	letter-spacing: normal;
+	line-height: 1.3em;
+	color: rgb(24, 21, 216);
+}
+body {
+  padding-top: 5rem;
+}
+body, html {
+  height: 100%;
+}
+.video-wrapper {
+  width: 100%;
+  background-color: black;
+}
+section {
+  margin: 1rem;
+  padding: 2rem;
+  background-color: rgb(231, 152, 48);
+  border-radius: 1em;
+}
+footer {
+  color: white; 
+}
+.bgimg {
+  background-image: url("background.jpg");
+  height: 100%;
+  position: relative;
+  opacity: 0.85;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed; /* fixed in viewport */
+}
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  color: blue;
+}
+.fa-youtube {
+  color: red;
+}
+.fa-instagram {
+  color: red;
+}
+.fa-github {
+  color: white;
+}
+.fa-linkedin {
+  color: blue;
+}
