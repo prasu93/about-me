@@ -67,25 +67,29 @@
         <h4>
           Just Imagine...What if a Train passes a moving Man
         </h4>
-        <label for="trains">Enter the train speed:</label>
-        <input id="trains" type="number" class="form-control" required autofocus>
+        <label for="trains">Enter the train speed(km/hr):</label>
+        <input id="trains" type="number" min="1" class="form-control">
         <br>
-        <label for="trainl">Enter the train length:</label>
-        <input id="trainl" type="number" class="form-control">
+        <label for="trainl">Enter the train length(in meters):</label>
+        <input id="trainl" type="number" min="1" class="form-control">
         <br>
-        <label for="trainl">Enter the train direction:</label>
+        <label for="mans">Enter speed of the Man(km/hr):</label>
+        <input id="mans" type="number" min="1" class="form-control">
         <br>
-        <input type="radio" name="direction" value="samed"><span style="color: white;">Same direction</span>
-        <input type="radio" name="direction" value="oppd"><span style="color: white;"> Opposite direction</span><br>
+        <div id="traind">
+          <label>Enter the train direction:</label>
+          <br>
+          <input type="radio" id="samed" name="direction" value="Samedirection"><span style="color: white;">Same direction</span>
+          <input type="radio" id="oppd" name="direction" value="Oppdirection"><span style="color: white;"> Opposite direction</span><br>
+        </div>
 
 
-
-        <br>
+        
 
         <button id="calcButton">Submit</button>
         <p>(Click on Submit to know Timetaken by train to pass the man)</p>
 
-        <textarea id="result" cols="15" rows="2"></textarea>
+        <p id="result"></p>
 
       </section>
 
