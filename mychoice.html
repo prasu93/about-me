@@ -7,9 +7,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <!-- Link to CSS-->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+  <!-- Bootstrap core CSS -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.8.7/css/mdb.min.css" rel="stylesheet">
+
+
+
+
+
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
     integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
   <link rel="stylesheet" href="./css/my.css">
+  <script src="main.js"></script>
   <title>Prasanna kumar</title>
 </head>
 
@@ -19,6 +30,9 @@
 
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav mr-auto">
+          <li>
+            <h2>Prasanna Kumar</h2>
+          </li>
           <li class="nav-item">
             <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
           </li>
@@ -58,48 +72,71 @@
   </header>
   <main class="container-fluid">
 
+    <div class="row">
+      <article class="col-md-6">
+        <section>
+          <h3>
+            Train Vs Man!!!
+          </h3>
+          <h4>
+            Just Imagine...What if a Train passes a moving Man
+          </h4>
+          <label for="trains">Enter the train speed(km/hr):</label><span id="Warning" class="text-danger"></span>
+          <input id="trains" type="number" min="1" class="form-control">
 
-    <article class="col-md-6 ">
-      <section>
-        <h3>
-          Train Vs Man!!!
-        </h3>
-        <h4>
-          Just Imagine...What if a Train passes a moving Man
-        </h4>
-        <label for="trains">Enter the train speed(km/hr):</label>
-        <input id="trains" type="number" min="1" class="form-control">
-        <br>
-        <label for="trainl">Enter the train length(in meters):</label>
-        <input id="trainl" type="number" min="1" class="form-control">
-        <br>
-        <label for="mans">Enter speed of the Man(km/hr):</label>
-        <input id="mans" type="number" min="1" class="form-control">
-        <br>
-        <div id="traind">
-          <label>Enter the train direction:</label>
           <br>
-          <input type="radio" id="samed" name="direction" value="Samedirection"><span style="color: white;">Same direction</span>
-          <input type="radio" id="oppd" name="direction" value="Oppdirection"><span style="color: white;"> Opposite direction</span><br>
-        </div>
+          <label for="trainl">Enter the train length(in meters):</label>
+          <input id="trainl" type="number" min="1" class="form-control">
+          <br>
+          <label for="mans">Enter speed of the Man(km/hr):</label>
+          <input id="mans" type="number" min="1" class="form-control">
+          <br>
 
+          <label for="dir">Enter direction of the train(same or opposite):</label>
+          <input id="dir" type="text" min="1" class="form-control">
 
-        
-
-        <button id="calcButton">Submit</button>
-        <p>(Click on Submit to know Timetaken by train to pass the man)</p>
-
-        <p id="result"></p>
-
-      </section>
-
+          
 
 
 
 
+          <button id="calcButton">Submit</button>
+          <p>(Click on Submit to know Timetaken by train to pass the man)</p>
 
-    </article>
+          <p id="result"></p>
 
+        </section>
+
+
+
+
+
+
+      </article>
+      <article class="col-md-4 ">
+        <section>
+          <h3>
+            AJAX!!!</h3>
+          <div id="aj">
+            <h4>You wanna call AJAX :-)</h4>
+            <button type="button" onclick="forajax()">Click ME!</button>
+          </div>
+          <br>
+          <h3>
+            Local Storage!!!</h3>
+          <p><button onclick="clickCounter()" type="button">CHECK</button></p>
+          <div id="local"></div>
+          <p>Click the button to see the counter increase.</p>
+          <p>Try closing the browser; click the Button and check the count
+          </p>
+
+
+          <p>For Resetting the clicks:</p>
+          <button onclick="window.localStorage.clear();">Reset</button>
+
+        </section>
+      </article>
+    </div>
 
 
   </main>
@@ -118,6 +155,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
     integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
     crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.8.7/js/mdb.min.js"></script>
 
 </body>
 
