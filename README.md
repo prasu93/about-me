@@ -38,5 +38,4 @@ I would like to post one of my picture, but not favorite, which was captured whe
 
 
 References:
-Prof.Denise case and 
-Bootstrap css links
+Prof.Denise case, Bootstrap css links, w3schools
