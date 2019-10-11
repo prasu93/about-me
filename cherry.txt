@@ -1,0 +1,6 @@
+Woww!!!!
+This is a simple AJAX to call a web-service...
+TODOS:
+-> Learn HTML
+-> Learn Javascript
+-> Learn AJAX
