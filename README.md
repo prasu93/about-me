@@ -10,6 +10,7 @@ I am from Visakhapatnam, India and had completed my Bachelor's degree in Compute
 - Unix Shell Scripting (Developing shell scripts and getting them deployed on the servers for the automation of daily tasks)
 - Java
 - My SQL
+- Python Basics
 
 ## Plans
 I'm not sure about my future plans but I hope, I might see myself as a Best Programmer in Java.
@@ -20,6 +21,7 @@ I'm not sure about my future plans but I hope, I might see myself as a Best Prog
 ## Links
 - Github Profile: [Link](https://github.com/prasu93)
 - BitBucket Profile: [Link](https://bitbucket.org/prasu93/)
+- Shell Data Processing Project: (https://github.com/prasu93/shell-data-processing)
 
 ## Photograph
 I would like to post one of my picture, but not favorite, which was captured when I'm on my way to [Lonavala](https://en.wikipedia.org/wiki/Lonavla)(Pune, India)
